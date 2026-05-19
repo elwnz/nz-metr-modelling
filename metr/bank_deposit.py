@@ -1,4 +1,4 @@
-def metr_bank_deposit (td):
+def metr_bank_deposit (td, REAL_RETURN, INFLATION):
      """
     Simple bank deposit model.
 
